@@ -1,2 +1,2 @@
 # Linux
-Alles ruund um das Thema Unix.
+Alles rund um das Thema Unix.
